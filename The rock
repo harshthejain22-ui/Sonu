@@ -757,5 +757,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 });
 git add .
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apex Mindset</title>
+
+  <!-- Narendra Modi Favicon / Website Icon -->
+  <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png">
+</head>
 git commit -m "Update site to premium Apex Mindset template"
 git push
