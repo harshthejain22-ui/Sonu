@@ -756,3 +756,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 });
+git add .
+git commit -m "Update site to premium Apex Mindset template"
+git push
